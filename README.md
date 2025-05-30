@@ -194,13 +194,13 @@
 </head>
 <body>
   <div class="container" id="login-panel">
-    <h1>سامانه مدیریت درسی مکتب خصوصی راهیان</h1>
+    <h1>سامانه مدیریت درسی مکتب خصوصی رهیاب</h1>
     <div class="school-info">
       <p><i class="fas fa-map-marker-alt"></i> آدرس: کابل،کارته سه، نارسیده به سه راهی علاودین،کوچه14، خانه19</p>
       <p><i class="fas fa-phone"></i> شماره تماس: ۰۷۴۹۹۴۸۹۷۰</p>
       <p><i class="fab fa-whatsapp"></i> واتساپ: ۰۷۴۹۹۴۸۹۷۰</p>
-      <p><i class="fab fa-telegram"></i> کانال تلگرام: <a href="#" target="_blank">مکتب خصوصی راهیان</a></p>
-      <p><i class="fab fa-facebook"></i> صفحه فیسبوک: <a href="#" target="_blank">مکتب خصوصی راهیان</a></p>
+      <p><i class="fab fa-telegram"></i> کانال تلگرام: <a href="#" target="_blank">مکتب خصوصی رهیاب</a></p>
+      <p><i class="fab fa-facebook"></i> صفحه فیسبوک: <a href="#" target="_blank">مکتب خصوصی رهیاب</a></p>
     </div>
     <select id="userTypeSelect" required>
       <option value="" disabled selected>نقش شما چیست؟</option>
